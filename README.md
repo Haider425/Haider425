@@ -1,9 +1,11 @@
-<h3 align="left">Hi 👋 My name is Haider Saleem<br><br>I love making things on the web. Whether it's creating easy-to-use front-end designs or building strong back-end systems, I enjoy turning ideas into functional solutions!</h3>
+<h3 align="center">Hi 👋 My name is Haider Saleem<br><br>I love making things on the web. Whether it's creating easy-to-use front-end designs or building strong back-end systems, I enjoy turning ideas into functional solutions!</h3>
 
 ###
 
+
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Haider425/count.svg?"  />
+  <img height="350" width="750" src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif"  />
 </div>
 
 ###
@@ -15,7 +17,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/haider-saleem-681a56257/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -48,12 +50,11 @@
 
 ###
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/VtvNS5ZESQzAmjO5EL/giphy.gif"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Haider425/count.svg?"  />
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Haider425/Haider425/output/snake.svg" alt="Snake animation" />
-
-###
+</div>
