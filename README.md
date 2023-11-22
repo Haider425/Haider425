@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img height="350" width="750" src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif"  />
+  <img height="350" width="700" src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif"  />
 </div>
 
 ###
