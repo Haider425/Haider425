@@ -1,60 +1,64 @@
-<h3 align="center">Hi 👋 My name is Haider Saleem<br><br>I love making things on the web. Whether it's creating easy-to-use front-end designs or building strong back-end systems, I enjoy turning ideas into functional solutions!</h3>
+# Hi, I'm Haider Saleem 👋
 
-###
+**Computer Science Student @ Ontario Tech University | Software Engineer | Builder**
 
+I build software that solves real problems, from full-stack web applications and data-driven tools to AI-powered systems. I enjoy working across the stack, exploring new technologies, and turning ideas into products people can actually use.
 
+- 🎓 B.Sc. Computer Science @ Ontario Tech University
+- 💻 Interested in software engineering, AI/ML, and data engineering
+- 🌐 Explore my [Portfolio](https://haider-dev-portfolio.netlify.app/)
+- 📍 Ontario, Canada
 
-<div align="center">
-  <img height="300" width="650" src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif"  />
-</div>
+---
 
-###
+### 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haider425&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haider425&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Languages**
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
+**Frameworks & Tools**
 
-###
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/haider-saleem-681a56257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/haider.saleem@ontariotechu.net" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+### 🌐 Portfolio
+
+**[haider-dev-portfolio.netlify.app](https://haider-dev-portfolio.netlify.app/)**
+
+Explore my projects, technical experience, and software development work.
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Haider425/count.svg?"  />
+  <img height="185" src="https://github-stats-extended.vercel.app/api?username=Haider425&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=aura" alt="GitHub Stats" />
+  &nbsp;
+  <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs?username=Haider425&langs_count=4&theme=aura&hide=html,css,jupyter%20notebook" alt="Most used programming languages" />
 </div>
 
-###
-<div align="center">
-<img src="https://raw.githubusercontent.com/Haider425/Haider425/output/snake.svg" alt="Snake animation" />
-</div>
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, discussing ideas, and building useful things.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/haider-saleem-681a56257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:haider.saleem@ontariotechu.net"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://haider-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View_portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
